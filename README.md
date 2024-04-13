@@ -10,7 +10,9 @@
 
 <p align="left">
 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
@@ -26,19 +28,29 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/see/github-stats">
-    <img src="https://github.com/DominicNguyen2002/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/>
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DominicNguyen2002&show_icons=true&locale=en" alt="DominicNguyen2002" /></p>
+<h3 align="left">GitHub Stats:</h3>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DominicNguyen2002&" alt="DominicNguyen2002" /></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominicNguyen2002&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="DominicNguyen2002"/>
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=DominicNguyen2002&show_icons=true&locale=en" alt="DominicNguyen2002" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DominicNguyen2002&" alt="DominicNguyen2002" />
+</p>
